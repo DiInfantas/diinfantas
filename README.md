@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-🌎 Spanish version available here: [Español](README.es.md)
+🌎 Spanish version available here: [Español](readme.es.md)
 
 ## Full Stack Developer
 
